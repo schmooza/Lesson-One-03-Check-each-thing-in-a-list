@@ -1,0 +1,35 @@
+To clean data, we need to check each thing one at a time.
+
+
+A 'for' loop checks each thing in a list. 
+
+Example,
+
+for n in myList
+
+(n just means "the thing I am looking at now")
+
+
+1) change n to another character. 
+
+
+2) use code to remove the tiger from the list.
+
+
+
+3) change the code so it can remove a pig from the list.
+
+4) change the colored text to pig colors.
+
+
+5) add 5 more animals to myList.
+
+6) I use "debug", to show me what is going on. Now things are working, remove "debug".
+
+
+7) run the unit test. does it pass?
+
+8) submit the task.
+
+
+
